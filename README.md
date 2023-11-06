@@ -1,2 +1,4 @@
 # mootlight
-Moonlight is a Windows and open source project, It is a tool designed to hack people and show what hacking is THIS IS ONLY FOR EDUCATIONAL USE, PLEASE NOT HACK ANYONE WITH THIS TOOL, I AM NOT HELD REPSONABLE FOR ANYTHING YOU DO. 
+Welcome to Moonlight 1 the orginal exploit program for Windows. 
+This program was created by Skylar Myers. Please be sure to support my work by downloading the program.
+
